@@ -1,16 +1,33 @@
-### Hi there 👋
+## はじめに(現在編集中)
+未経験のため、現在のプログラミングスキルをまとめました。技術以外のプロフィールに関しては以下のリンクをご覧ください。
+wantedlyプロフィール
 
-<!--
-**kamejiro/kamejiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 学習した内容
+- Ruby 2.7.5 ,Rails 6.1.4(フレームワーク)
+- PostgresQL(データベース)
+- jQuery
+- AWS S3(画像ストレージ)
+- docker-compose(環境構築)
+- CircleCI(ビルド、テスト、デプロイ)
+- heroku(本番環境サーバ)
+- Github(バージョン管理)
+- Windows(OS)
+- VSCode(エディタ)
 
-Here are some ideas to get you started:
+## 学習済みの書籍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 現在学習している内容
+
+## 学習時間について
+
+
+## リンク
+かめじろうのブログ(https://www.kamejiroblog.com)
+
+## 今後実装したい項目
+- バッチ処理
+- トランザクション機能
+- 排他制御機能
+- お問い合わせ機能
+- 人気記事表示機能
