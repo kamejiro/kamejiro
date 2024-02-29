@@ -8,8 +8,7 @@ VirtualBox<br>
 AWS(IAM/VPC/EC2/S3/RDS/Route53/XloudFront/Certificate Manager)/Heroku/Docker/docker-compose/CircleCI<br>
 AWSを利用して、クラウド上のネットワーク、サーバを用いて独自ドメインでのデプロイまでを学びました。
 また、Dockerを利用して、ローカル環境に依存しないコンテナ開発を学びました。
-さらに、CircleCIを利用した自動ビルド、自動テスト、自動デプロイについて学びました。
-<br>
+さらに、CircleCIを利用した自動ビルド、自動テスト、自動デプロイについて学びました。<br>
 - バージョン管理<br>
 github<br>
 プロジェクトのバージョン管理、CUIでの操作、GUIでの操作、リモートリポジトリでの管理を勉強しました。また、チーム開発を想定し、イシューやプルリクエストを使用した開発も行いました。<br>
